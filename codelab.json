@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-11-05T18:43:09+01:00",
+  "id": "grothsocketpuppet",
+  "duration": 0,
+  "title": "Socket Puppet Guide",
+  "summary": "Socket Puppet",
+  "source": "C:\\Users\\groth\\Downloads\\GuiaSocketPuppet.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/Grothnack/SockPuppet",
+  "url": "grothsocketpuppet"
+}
